@@ -1,7 +1,7 @@
 # Project 3: Bulking up our JWKS Server
 
 **Name:** Gautam Aryal  
-**Course:** CSCE 3550 - Cybersecurity  
+**Course:** CSCE 3550 - Foundations of Cybersecurity 
 **Semester:** Fall 2025
 
 ## Project Overview
@@ -315,15 +315,8 @@ See `requirements.txt` for the full list:
 ## Author
 
 Gautam Aryal  
-CSCE 3550 - Cybersecurity  
+CSCE 3550 - Foundations of Cybersecurity 
 University of North Texas  
 Fall 2025
 
-Argon2 Password Hashing Specification
 
-Author
-
-Gautam Aryal
-CSCE 3550 - Cybersecurity
-University of North Texas
-Fall 2025
